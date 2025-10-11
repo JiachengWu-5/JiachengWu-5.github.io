@@ -3,10 +3,9 @@ layout: default
 class: home
 css: ['pages/index.css']
 comments: false
----
-
 title: Homepage
 menu: Homepage
+---
 <!-- Use the Homepage content only (from pages/Homepage.md) -->
 
 <section class="banner">
