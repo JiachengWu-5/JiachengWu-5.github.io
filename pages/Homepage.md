@@ -5,7 +5,7 @@ description: Time flies
 keywords: Jiacheng Wu, Homepage
 comments: false
 menu: Homepage
-permalink: /
+permalink: /Homepage/
 
 <!--
 Note: permalink set to '/' so this page will be served at the site root.
