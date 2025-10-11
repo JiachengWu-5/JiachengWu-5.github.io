@@ -24,13 +24,13 @@ navs:
     href: /
     label: Homepage
   -
-    href: /cv/
-    label: CV
+    href: /More About Me/
+    label: More About Me
     
     
   -
-    href: /project/
-    label: Project
+    href: /Publications & Projects/
+    label: Publications & Projects
 
   -
     href: /blog/
