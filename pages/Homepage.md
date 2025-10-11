@@ -5,13 +5,13 @@ description: Time flies
 keywords: Jiacheng Wu, Homepage
 comments: false
 menu: Homepage
-permalink: /Homepage/
+permalink: /
+---
 
 <!--
 Note: permalink set to '/' so this page will be served at the site root.
 The original `index.html` has been moved to `index_posts.html` to avoid file conflicts.
 -->
----
 <br>
 
 Welcome to the academic personal website of Jiacheng Wu. Here you will find updated information about Jiacheng Wu’s academic profile, experiences, and achievements.  
