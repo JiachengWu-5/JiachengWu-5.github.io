@@ -20,9 +20,9 @@ email: csjcwu@comp.hkbu.edu.hk
 navs:
 
 
-  # -
-  #   href: /
-  #   label: Homepage
+  -
+    href: /
+    label: Homepage
   -
     href: /cv/
     label: CV
