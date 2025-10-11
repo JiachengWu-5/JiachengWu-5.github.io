@@ -10,7 +10,7 @@ permalink: /Publications & Projects/
 
 
 ## **Publications**
-(Notations: * Corresponding Author; # Equal Contribution.)
+(Notations: <sup>*</sup> Corresponding Author; <sup>#</sup> Equal Contribution.)
 
 - **[[ICME2025](https://arxiv.org/abs/2503.18408)]** Jiacheng Wu<sup>#</sup>, Ruiqi Zhang<sup>#</sup>, Jie Chen<sup>*</sup>, Hui Zhang, “Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars,” _IEEE International Conference on Multimedia and Expo, 2025_
 
