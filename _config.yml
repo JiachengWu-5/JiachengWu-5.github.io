@@ -7,9 +7,6 @@ date_format: "ordinal"
 # timezone: Asia/Hong Kong
 encoding: "utf-8"
 side_bar_repo_limit: 5
-  -
-    href: /
-    label: Homepage
 organization: HKBU 
 organization_url: https://www.hkbu.edu.hk/
 github_username: JiachengWu-5
@@ -19,20 +16,14 @@ email: csjcwu@comp.hkbu.edu.hk
 # Navigation
 navs:
 
-
   -
-    href: /Homepage/
+    href: "/"
     label: Homepage
   -
-    href: /More About Me/
+    href: "/more-about-me/"
     label: More About Me
-    
-    # NOTE: use slug-style href to avoid spaces in URLs which can cause encoding/matching issues
-    # href: /more-about-me/
-    
-    
   -
-    href: /Publications & Projects/
+    href: "/Publications & Projects/"
     label: Publications & Projects
 
   # -
