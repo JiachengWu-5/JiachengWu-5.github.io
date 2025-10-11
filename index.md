@@ -43,7 +43,7 @@ menu: Homepage
             </div>
         </div>
         <div class="column one-third">
-            {% include sidebar-search.html %}
+            {% comment %} {% include sidebar-search.html %} {% endcomment %}
         </div>
     </div>
 </section>
