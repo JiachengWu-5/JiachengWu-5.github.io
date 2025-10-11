@@ -7,6 +7,7 @@ comments: false
 
 title: Homepage
 menu: Homepage
+<!-- Use the Homepage content only (from pages/Homepage.md) -->
 
 <section class="banner">
     <div class="collection-head">
@@ -31,76 +32,19 @@ menu: Homepage
         </div>
     </div>
 </section>
-<!-- /.banner -->
 
-<!-- Homepage intro -->
-## Welcome
-
-Welcome to the academic personal website of Jiacheng Wu. Here you will find updated information about Jiacheng Wu’s academic profile, experiences, and achievements.
-
-For insights into daily life and other personal interests, please refer to my alternative website: [(￣∀￣)](https://jiachengwu-5.github.io/W).
-
+<!-- Homepage intro (copied from pages/Homepage.md) -->
 <section class="container content">
     <div class="columns">
-        <div class="column two-thirds" >
-            <ol class="repo-list">
-                {% for post in paginator.posts %}
-                <li class="repo-list-item">
-                    <h3 class="repo-list-name">
-                      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                    </h3>
-                    <p class="repo-list-description">
-                        {{ post.excerpt | strip_html | strip }}
-                    </p>
-                    <p class="repo-list-meta">
-                        <span class="meta-info">
-                          <span class="octicon octicon-calendar"></span> {{ post.date | date: "%Y/%m/%d" }}
-                        </span>
-                        {% for cat in post.categories %}
-                        <span class="meta-info">
-                          <span class="octicon octicon-file-directory"></span>
-                          <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
-                        </span>
-                        {% endfor %}
-                    </p>
-                </li>
-                {% endfor %}
-            </ol>
+        <div class="column two-thirds">
+            <div class="post-content">
+                <br>
+                <p>Welcome to the academic personal website of Jiacheng Wu. Here you will find updated information about Jiacheng Wu’s academic profile, experiences, and achievements.</p>
+                <p>For insights into daily life and other personal interests, please refer to my alternative website: <a href="https://jiachengwu-5.github.io/W">(￣∀￣)</a>.</p>
+            </div>
         </div>
         <div class="column one-third">
             {% include sidebar-search.html %}
         </div>
     </div>
-    <div class="pagination text-align">
-      <div class="btn-group">
-        {% if paginator.previous_page %}
-          {% if paginator.previous_page == 1 %}
-              <a href="{{ site.url }}/" class="btn btn-outline">&laquo;</a>
-          {% else %}
-              <a href="{{ site.url }}/page{{paginator.previous_page}}"  class="btn btn-outline">&laquo;</a>
-          {% endif %}
-        {% else %}
-            <button disabled="disabled" href="javascript:;" class="btn btn-outline">&laquo;</button>
-        {% endif %}
-        {% if paginator.page == 1 %}
-            <a href="javascript:;" class="active btn btn-outline">1</a>
-        {% else %}
-            <a href="{{ site.url }}/"  class="btn btn-outline">1</a>
-        {% endif %}
-        {% for count in (2..paginator.total_pages) %}
-          {% if count == paginator.page %}
-              <a href="javascript:;"  class="active btn btn-outline">{{count}}</a>
-          {% else %}
-              <a href="{{ site.url }}/page{{count}}"  class="btn btn-outline">{{count}}</a>
-          {% endif %}
-        {% endfor %}
-        {% if paginator.next_page %}
-            <a href="{{ site.url }}/page{{paginator.next_page}}"  class="btn btn-outline">&raquo;</a>
-        {% else %}
-            <button disabled="disabled" href="javascript:;" class="btn btn-outline">&raquo;</button>
-        {% endif %}
-        </div>
-    </div>
-    <!-- /pagination -->
 </section>
-<!-- /section.content -->
