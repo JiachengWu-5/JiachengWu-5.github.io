@@ -5,7 +5,11 @@ description: Time flies
 keywords: Jiacheng Wu, Homepage
 comments: false
 menu: Homepage
-permalink: Homepage
+permalink: /Homepage/
+
+<!--
+Note: permalink set to '/homepage/' so navigation can link to this page. Make sure `_config.yml` nav href matches '/homepage/'.
+-->
 ---
 <br>
 
