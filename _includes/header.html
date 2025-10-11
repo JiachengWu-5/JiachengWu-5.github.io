@@ -77,8 +77,10 @@
           nav.style.display = "inline-flex";
         }
     }
-    {% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include google-analytics.html %}
+    {% if jekyll.environment == 'production' %}
+      {% if site.google_analytics %}
+        {% include google-analytics.html %}
+      {% endif %}
     {% endif %}
     </script>
 </head>
@@ -93,7 +95,7 @@
             </button>
             <nav class="site-header-nav" role="navigation">
                 {% for nav in site.navs %}
-                <a href="{{ site.url }}{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
+                <a href="{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
                 {% endfor %}
             </nav>
         </div>
