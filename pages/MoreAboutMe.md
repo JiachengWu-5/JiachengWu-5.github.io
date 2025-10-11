@@ -60,7 +60,7 @@ I am currently a PhD student in Computer Science at [HKBU](https://www.hkbu.edu.
 
 ## **Contact**
 
-- **Email**: csjcwu@comp.hkbu.edu.hk
+- **Email**: [csjcwu@comp.hkbu.edu.hk](mailto:csjcwu@comp.hkbu.edu.hk)
 - **Github**: [JiachengWu-5](https://github.com/JiachengWu-5)
 - **WeChat**: wjc407171301
 
