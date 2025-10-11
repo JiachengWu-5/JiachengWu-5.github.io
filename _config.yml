@@ -10,7 +10,7 @@ side_bar_repo_limit: 5
  
 
 author: Jiacheng Wu
-organization: HKBU
+organization: HKBU 
 organization_url: https://www.hkbu.edu.hk/
 github_username: JiachengWu-5
 location: Hong Kong, China
@@ -20,9 +20,9 @@ email: csjcwu@comp.hkbu.edu.hk
 navs:
 
 
-  -
-    href: /
-    label: Homepage
+  # -
+  #   href: /
+  #   label: Homepage
   -
     href: /cv/
     label: CV
