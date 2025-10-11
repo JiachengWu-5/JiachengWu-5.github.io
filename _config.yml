@@ -32,9 +32,9 @@ navs:
     href: /Publications & Projects/
     label: Publications & Projects
 
-  -
-    href: /blog/
-    label: Blog
+  # -
+  #   href: /blog/
+  #   label: Blog
 
 #  -
 #    href: /wiki/
