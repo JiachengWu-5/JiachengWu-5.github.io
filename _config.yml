@@ -16,9 +16,9 @@ email: csjcwu@comp.hkbu.edu.hk
 # Navigation
 navs:
 
-  -
-    href: "/"
-    label: Homepage
+  # -
+  #   href: "/"
+  #   label: Homepage
   -
     href: "/more-about-me/"
     label: More About Me
