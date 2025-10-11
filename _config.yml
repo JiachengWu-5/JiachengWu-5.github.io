@@ -27,6 +27,9 @@ navs:
     href: /More About Me/
     label: More About Me
     
+    # NOTE: use slug-style href to avoid spaces in URLs which can cause encoding/matching issues
+    # href: /more-about-me/
+    
     
   -
     href: /Publications & Projects/

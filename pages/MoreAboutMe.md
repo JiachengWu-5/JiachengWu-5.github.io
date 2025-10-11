@@ -5,7 +5,12 @@ description: Time flies
 keywords: Jiacheng Wu, CV
 comments: false
 menu: More About Me
-permalink: /More About Me/
+permalink: /more-about-me/
+
+<!--
+Note: permalink changed to '/more-about-me/' (slug form) to avoid URL encoding issues and to match nav hrefs without spaces.
+If you prefer spaces, ensure `_config.yml` nav href uses the exact same string '/More About Me/' (including spaces) and the server handles encoded URLs.
+-->
 ---
 <br>
 
