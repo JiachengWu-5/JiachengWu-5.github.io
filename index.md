@@ -39,7 +39,8 @@ menu: Homepage
             <div class="post-content">
                 <br>
                 <p>Welcome to the academic personal website of Jiacheng Wu. Here you will find updated information about Jiacheng Wu’s academic profile, experiences, and achievements.</p>
-                <p>For insights into daily life and other personal interests, please refer to my alternative website: <a href="https://jiachengwu-5.github.io/W">(￣∀￣)</a>.</p>
+                <p>If you want to know more about Jiacheng Wu’s life, feel free to check out <a href="https://jiachengwu-5.github.io/W">(￣∀￣)</a>!
+                </p>
             </div>
         </div>
         <div class="column one-third">
