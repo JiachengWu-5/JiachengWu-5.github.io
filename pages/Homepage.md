@@ -16,4 +16,4 @@ The original `index.html` has been moved to `index_posts.html` to avoid file con
 
 Welcome to the academic personal website of Jiacheng Wu. Here you will find updated information about Jiacheng Wu’s academic profile, experiences, and achievements.  
 
-For insights into daily life and other personal interests, please refer to my alternative website: [(￣∀￣)](https://jiachengwu-5.github.io/W).
+For insights into daily life and other personal interests, please refer to my alternative website: [(￣∀￣)](https://jiachengwu-5.github.io/W/).
