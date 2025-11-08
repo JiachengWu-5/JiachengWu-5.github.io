@@ -14,6 +14,8 @@ permalink: /Publications & Projects/
 
 - **[[ICME2025](https://2025.ieeeicme.org/)]** Jiacheng Wu<sup>#</sup>, Ruiqi Zhang<sup>#</sup>, Jie Chen<sup>*</sup>, Hui Zhang, [“Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars,”](https://arxiv.org/abs/2503.18408) _IEEE International Conference on Multimedia and Expo, 2025_
 
+- **[[AAAI2026]([https://2025.ieeeicme.org/](https://aaai.org/conference/aaai/aaai-26/))]** Jiacheng Wu<sup>#</sup>, Ruiqi Zhang, Jie Chen<sup>*</sup>, Hui Zhang, [“Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement,”]() _Association for the Advancement of Artificial Intelligence, 2026
+
 ## **Projects**
 
 - An On-bike Posture Recognition Model for Road Cycling _(HKUST, Sept.2022 - Nov. 2022)_
