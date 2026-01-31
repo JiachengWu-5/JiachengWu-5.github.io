@@ -14,7 +14,9 @@ permalink: /Publications & Projects/
 
 - **[[ICME2025](https://2025.ieeeicme.org/)]** Jiacheng Wu<sup>#</sup>, Ruiqi Zhang<sup>#</sup>, Jie Chen<sup>*</sup>, Hui Zhang, [“Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars,”](https://arxiv.org/abs/2503.18408) _IEEE International Conference on Multimedia and Expo, 2025_
 
-- **[[AAAI2026](https://aaai.org/conference/aaai/aaai-26/)]** Jiacheng Wu<sup>#</sup>, Ruiqi Zhang, Jie Chen<sup>*</sup>, Hui Zhang, [“Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement,”](https://arxiv.org/abs/2511.08079) _Association for the Advancement of Artificial Intelligence, 2026_
+- **[[AAAI2026](https://aaai.org/conference/aaai/aaai-26/)]** Jiacheng Wu, Ruiqi Zhang, Jie Chen<sup>*</sup>, Hui Zhang, [“Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement,”](https://arxiv.org/abs/2511.08079) _Association for the Advancement of Artificial Intelligence, 2026_
+
+- **[[ICLR2026](https://iclr.cc/)]** Ruiqi Zhang, Jiacheng Wu, Jie Chen<sup>*</sup>, [“Mesh Splatting for End-to-end Multiview Surface Reconstruction,”](https://openreview.net/forum?id=PSgps4JXTb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) _International Conference on Learning Representations, 2026_
 
 ## **Projects**
 
