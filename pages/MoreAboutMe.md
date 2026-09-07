@@ -84,6 +84,13 @@ I am currently a PhD student in Computer Science at [HKBU](https://www.hkbu.edu.
 - **Github**: [JiachengWu-5](https://github.com/JiachengWu-5)
 - **WeChat**: wjc407171301
 
+
+## **Beyond Work**
+
+* **Birdwatching (观鸟)**: Passionate about spotting migratory and local birds along Hong Kong's trails. Nature is my best way to hit "system reset".
+* **Social Responsibility (社会责任)**: Regular blood donor 🩸—a small, steady commitment to giving back.
+* **Building & Tinkering (实用工程)**: Passionate about leveraging AI to bridge imagination and reality—from novel-to-video generation to web systems.
+
 <!-- - My CV file is shown in [JiachengWu_CV.pdf](/assets/personal_file/Jiacheng_WU_CV.pdf). -->
 
 <!-- ## Social -->
